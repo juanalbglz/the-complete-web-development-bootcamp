@@ -1,0 +1,44 @@
+hr {
+  border: none;
+  border-top-color: #3ab4f2;
+  border-top-style: dotted;
+  width: 70px;
+  border-width: 6px;
+}
+
+img {
+  height: 100px;
+}
+
+html {
+  height: 100%;
+}
+body {
+  width: 90%;
+  background-color: #f6f6f6;
+}
+
+h1,
+h3 {
+  color: #0078aa;
+}
+
+nav ul {
+  padding: 0;
+  display: flex;
+  justify-content: flex-end;
+  align-items: center;
+}
+
+nav ul li {
+  list-style-type: none;
+  margin-right: 2em;
+  border: 1px solid red;
+  font-size: large;
+}
+
+header {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+}

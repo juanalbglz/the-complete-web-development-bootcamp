@@ -4,16 +4,16 @@
     "type": "split",
     "children": [
       {
-        "id": "3fbc7b75b6e18b91",
+        "id": "8875b1ef24bd5a16",
         "type": "tabs",
         "children": [
           {
-            "id": "3d2567b37b2e20c7",
+            "id": "2a4054fb6b8c01c0",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "01 Web Development fundamentals/how websites work.md",
+                "file": "02 Introduction to HTML/02 The Heading element.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "01 Web Development fundamentals/how websites work.md",
+                "file": "02 Introduction to HTML/02 The Heading element.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "01 Web Development fundamentals/how websites work.md",
+                "file": "02 Introduction to HTML/02 The Heading element.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "01 Web Development fundamentals/how websites work.md"
+                "file": "02 Introduction to HTML/02 The Heading element.md"
               }
             }
           }
@@ -148,9 +148,21 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "b11e25e61cce303d",
+  "active": "2a4054fb6b8c01c0",
   "lastOpenFiles": [
-    "01 Web Development fundamentals/how the internet works and how websites are served.md",
+    "02 Introduction to HTML/01 What is HTML.md",
+    "02 Introduction to HTML/02 The Heading element.md",
+    "02 Introduction to HTML/02 Heading Element/solution.html",
+    "02 Introduction to HTML/02 Heading Element/index.html",
+    "02 Introduction to HTML/02 Heading Element/goal.png",
+    "02 Introduction to HTML/02 Heading Element",
+    "01 Web Development fundamentals/03 Learn key troubleshooting and debugging skills to apply to your projects.md",
+    "02 Introduction to HTML/proofreading.jpg",
+    "02 Introduction to HTML/proofreading2.jpg",
+    "02 Introduction to HTML",
+    "Google.md",
+    "01 Web Development fundamentals/02 Understand how websites work and how HTML, CSS and JavaScript contribute.md",
+    "01 Web Development fundamentals/01 how the internet works and how websites are served.md",
     "README.md",
     "Untitled.canvas",
     "_templates/Eisenhower Matrix.md",
@@ -162,7 +174,6 @@
     "_templates",
     "_resources/required software.md",
     "_resources/12 rules to learn to code.md",
-    "Cornell Notes/_template.md",
-    "01 Web Development fundamentals/how websites work.md"
+    "Cornell Notes/_template.md"
   ]
 }

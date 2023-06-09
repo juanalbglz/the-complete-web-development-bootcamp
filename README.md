@@ -9,8 +9,8 @@ A project based course that can be done in 12 weeks and covers from HTML to Reac
 - [x] [Required software](_resources/required%20software.md)
 
 ### Web development fundamentals
-- [x] [Understand how the internet works and how websites are served](01%20Web%20Development%20fundamentals/how%20the%20internet%20works%20and%20how%20websites%20are%20served.md).
-- [x] [Understand how websites work and how HTML, CSS and JavaScript contribute](01%20Web%20Development%20fundamentals/how%20websites%20work.md).
+- [x] [Understand how the internet works and how websites are served](01%20Web%20Development%20fundamentals/01%20how%20the%20internet%20works%20and%20how%20websites%20are%20served.md).
+- [x] [Understand how websites work and how HTML, CSS and JavaScript contribute](01%20Web%20Development%20fundamentals/02%20Understand%20how%20websites%20work%20and%20how%20HTML,%20CSS%20and%20JavaScript%20contribute.md).
 - [ ] Learn to use git, GitHub and version control.
 - [ ] Learn key troubleshooting and debugging skills to apply to your projects
 

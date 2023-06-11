@@ -4,4 +4,4 @@ To connect to the internet we pass by a ISP (Internet Service Provider), that pr
 
 Those cavles are also under the sea, and you can see them on [www.submarinecablemap.com](https://www.submarinecablemap.com/)
 
-[INDEX](/README.md)
+[INDEX](/README.md) [NEXT](/01%20Web%20Development%20fundamentals/02%20Understand%20how%20websites%20work%20and%20how%20HTML%2C%20CSS%20and%20JavaScript%20contribute.md)

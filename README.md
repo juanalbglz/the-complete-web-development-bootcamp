@@ -2,6 +2,13 @@
 
 A project based course that can be done in 12 weeks and covers from HTML to React.
 
+## PROJECTS
+
+
+- [x] [Movie Ranking Project](/02%20Introduction%20to%20HTML/2.4%20Movie%20Ranking%20Project/index.html)
+- [x] [Birthday Invite Project](/03%20Intermediate%20HTML/3.4%20Birthday%20Invite%20Project/index.html)
+- [ ] [HTML Portfolio Project](/04%20Multi-Page%20Websites/4.3%20HTML%20Porfolio%20Project/index.html)
+
 ## SYLLABUS / THE COMPLETE DEVELOPMENT BOOTCAMP BY [APP BREVERY](www.appbrewery.com)
 
 ### RESOURCES
@@ -18,11 +25,11 @@ A project based course that can be done in 12 weeks and covers from HTML to Reac
 ### HTML5
 - [ ] Learn the anatomy of HTML syntax to structure your websites.
 - [ ] Understand the HTML boilerplate and HTML doctypes.
-- [ ] Understand indentation and nesting in HTML code.
-- [ ] Learn to use HTML tags to structure headings, paragraphs.
-- [ ] How to structure HTML lists to create unordered and ordered lists.
-- [ ] How to insert images using HTML
-- [ ] How to create hyperlinks using anchor tags.
+- [x] [Understand indentation and nesting in HTML code](/03%20Intermediate%20HTML/3.1%20Nesting%20and%20indentation.md).
+- [x] Learn to use HTML tags to structure headings, paragraphs.
+- [x] [How to structure HTML lists to create unordered and ordered lists](/03%20Intermediate%20HTML/3.0%20The%20List%20Elements.md).
+- [x] [How to insert images using HTML](/03%20Intermediate%20HTML/3.3%20Image%20Elements.md).
+- [x] [How to create hyperlinks using anchor tags](/03%20Intermediate%20HTML/3.2%20Anchor%20Element.md).
 - [ ] Create multi-page websites.
 - [ ] Learn HTML best practices.
 

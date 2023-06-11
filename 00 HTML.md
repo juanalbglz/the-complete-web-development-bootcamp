@@ -4,7 +4,7 @@ HTML stands for Hyper Text Markup Language
 - Hyper Text meaning the ability to link other documents (as you can see in the [first page of the internet](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/TheProject.html), created by Sir Tim Berners-Lee, who also invented the Internet)
 - Markup Language meaning a language defined by tags (First versions HTML Tags)![[02 Introduction to HTML/proofreading.jpg]]![[02 Introduction to HTML/proofreading2.jpg]] In the beginning there [were only a few tags](https://www.w3.org/History/19921103-hypertext/hypertext/WWW/MarkUp/Tags.html)
 - As by now there are quite a few more tags:
-1. [ ] [`<a>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/a)
+1. [x] [`<a>`](/03%20Intermediate%20HTML/3.2%20Anchor%20Element.md)
 2. [ ] [`<abbr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/abbr)
 3. [ ] [`<acronym>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/acronym)Deprecated
 4. [ ] [`<address>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/address)
@@ -19,7 +19,7 @@ HTML stands for Hyper Text Markup Language
 13. [ ] [`<big>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/big)Deprecated
 14. [ ] [`<blockquote>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/blockquote)
 15. [ ] [`<body>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/body)
-16. [ ] [`<br>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/br)
+16. [x] [`<br>`](/02%20Introduction%20to%20HTML/04%20Void%20HTML%20Elements.md)
 17. [ ] [`<button>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/button)
 18. [ ] [`<canvas>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/canvas)
 19. [ ] [`<caption>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/caption)
@@ -53,18 +53,18 @@ HTML stands for Hyper Text Markup Language
 47. [ ] [`<head>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/head)
 48. [ ] [`<header>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/header)
 49. [ ] [`<hgroup>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hgroup)
-50. [ ] [`<hr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/hr)
+50. [x] [`<hr>`](/02%20Introduction%20to%20HTML/04%20Void%20HTML%20Elements.md)
 51. [ ] [`<html>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/html)
 52. [ ] [`<i>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/i)
 53. [ ] [`<iframe>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/iframe)
 54. [ ] [`<image>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/image)Non-standardDeprecated
-55. [ ] [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
+55. [x] [`<img>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/img)
 56. [ ] [`<input>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/input)
 57. [ ] [`<ins>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ins)
 58. [ ] [`<kbd>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/kbd)
 59. [ ] [`<label>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/label)
 60. [ ] [`<legend>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/legend)
-61. [ ] [`<li>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/li)
+61. [x] [`<li>`](/03%20Intermediate%20HTML/3.0%20The%20List%20Elements.md)
 62. [ ] [`<link>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/link)
 63. [ ] [`<main>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/main)
 64. [ ] [`<map>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/map)
@@ -80,11 +80,11 @@ HTML stands for Hyper Text Markup Language
 74. [ ] [`<noframes>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noframes)Deprecated
 75. [ ] [`<noscript>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/noscript)
 76. [ ] [`<object>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/object)
-77. [ ] [`<ol>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ol)
+77. [x] [`<ol>`](/03%20Intermediate%20HTML/3.0%20The%20List%20Elements.md)
 78. [ ] [`<optgroup>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/optgroup)
 79. [ ] [`<option>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/option)
 80. [ ] [`<output>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/output)
-81. [ ] [`<p>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/p)
+81. [x] [`<p>`](/02%20Introduction%20to%20HTML/03%20The%20HTML%20Paragraph%20Elements.md)
 82. [ ] [`<param>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/param)Deprecated
 83. [ ] [`<picture>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/picture)
 84. [ ] [`<plaintext>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/plaintext)Deprecated
@@ -126,7 +126,7 @@ HTML stands for Hyper Text Markup Language
 120. [ ] [`<track>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/track)
 121. [ ] [`<tt>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/tt)Deprecated
 122. [ ] [`<u>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/u)
-123. [ ] [`<ul>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/ul)
+123. [x] [`<ul>`](/03%20Intermediate%20HTML/3.0%20The%20List%20Elements.md)
 124. [ ] [`<var>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/var)
 125. [ ] [`<video>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/video)
 126. [ ] [`<wbr>`](https://developer.mozilla.org/en-US/docs/Web/HTML/Element/wbr)

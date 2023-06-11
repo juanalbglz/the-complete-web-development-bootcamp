@@ -16,4 +16,4 @@ Steps that you can go through when you get stuck on any sort of programming prob
 To take a screenshot in windows (WIN+SHIFT+S) or in Mac (Apple + SHIFT + 4)
 It's important to remember that everybody gets stuck sometimes and remember that getting stuck and solving it is all a part of the learning journey.
 
-[INDEX](/README.md)
+[PREVIOUS](/01%20Web%20Development%20fundamentals/02%20Understand%20how%20websites%20work%20and%20how%20HTML%2C%20CSS%20and%20JavaScript%20contribute.md) [INDEX](/README.md) [NEXT](/02%20Introduction%20to%20HTML/2.1%20The%20Heading%20element.md)

@@ -4,35 +4,18 @@
     "type": "split",
     "children": [
       {
-        "id": "8875b1ef24bd5a16",
+        "id": "fb9a383da9fe9265",
         "type": "tabs",
         "children": [
           {
-            "id": "2a4054fb6b8c01c0",
+            "id": "1c68003b05969c0d",
             "type": "leaf",
             "state": {
-              "type": "markdown",
-              "state": {
-                "file": "01 Web Development fundamentals/03 Learn key troubleshooting and debugging skills to apply to your projects.md",
-                "mode": "source",
-                "source": false
-              }
-            }
-          },
-          {
-            "id": "a27c60d01465c462",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "04 Multi-Page Websites/4.2 The HTML Boilerplate.md",
-                "mode": "source",
-                "source": false
-              }
+              "type": "empty",
+              "state": {}
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -98,7 +81,6 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "04 Multi-Page Websites/4.2 The HTML Boilerplate.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -115,7 +97,6 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "04 Multi-Page Websites/4.2 The HTML Boilerplate.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -137,9 +118,7 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {
-                "file": "04 Multi-Page Websites/4.2 The HTML Boilerplate.md"
-              }
+              "state": {}
             }
           }
         ]
@@ -161,38 +140,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "a27c60d01465c462",
+  "active": "1c68003b05969c0d",
   "lastOpenFiles": [
-    "04 Multi-Page Websites/4.0 File Paths.md",
-    "04 Multi-Page Websites/4.2 The HTML Boilerplate.md",
+    "05 Introduction to CSS/5.4 Color Vocab Project/style.css",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/yellow.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/red.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/orange.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/green.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/blue.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/red.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/yellow.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/orange.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/green.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/blue.png",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/style.css",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/solution.html",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images",
+    "05 Introduction to CSS/5.4 Color Vocab Project/solution",
+    "05 Introduction to CSS/5.4 Color Vocab Project/index.html",
+    "05 Introduction to CSS/5.4 Color Vocab Project/assets",
+    "05 Introduction to CSS/5.4 Color Vocab Project",
+    "05 Introduction to CSS/5.3 CSS Selectors.css.md",
+    "05 Introduction to CSS/5.3 CSS Selectors.css",
+    "05 Introduction to CSS/5.3 CSS Selectors.html.md",
+    "05 Introduction to CSS/5.3 CSS Selectors.md",
+    "05 Introduction to CSS/5.1 How to add CSS.md",
     "04 Multi-Page Websites/4.1 What are Webpages.md",
-    "01 Web Development fundamentals/03 Learn key troubleshooting and debugging skills to apply to your projects.md",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/assets/images/movie-ranking.png",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/assets/images/birthday-invite.png",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/public/movie-ranking.html",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/public/about.html",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/public/contact.html",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/public/birthday-invite.html",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/assets/images",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/public",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/solution.html",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/index.html",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/goal.png",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project/assets",
-    "04 Multi-Page Websites/4.3 HTML Porfolio Project",
-    "04 Multi-Page Websites/4.1 Webpages/assets/images/cat.png",
-    "04 Multi-Page Websites/4.1 Webpages/goal.png",
-    "03 Intermediate HTML/3.0 The List Elements.md",
+    "05 Introduction to CSS/5.0 Why do we need CSS.md",
+    "04 Multi-Page Websites/4.2 The HTML Boilerplate.md",
+    "README.md",
     "().md",
+    "01 Web Development fundamentals/03 Learn key troubleshooting and debugging skills to apply to your projects.md",
+    "04 Multi-Page Websites/4.0 File Paths.md",
+    "03 Intermediate HTML/3.0 The List Elements.md",
     "02 Introduction to HTML/2.1 The Heading element.md",
-    "04 Multi-Page Websites/4.0 File Paths/Folder1/Folder2/bird.png",
-    "04 Multi-Page Websites/4.0 File Paths/Folder0/Folder3/cat.png",
-    "04 Multi-Page Websites/4.0 File Paths/Folder1/fish.png",
-    "04 Multi-Page Websites/4.0 File Paths/Folder0/rabbit.png",
-    "04 Multi-Page Websites/4.0 File Paths/Folder0/goal.png",
     "01 Web Development fundamentals/02 Understand how websites work and how HTML, CSS and JavaScript contribute.md",
     "01 Web Development fundamentals/01 how the internet works and how websites are served.md",
-    "README.md",
     "03 Intermediate HTML/3.3 Image Elements.md",
     "03 Intermediate HTML/3.2 Anchor Element.md",
     "00 HTML.md",
@@ -203,12 +188,6 @@
     "02 Introduction to HTML/2.2 The Heading element.md",
     "03 Intermediate HTML/01 The List Elements.md",
     "02 Introduction to HTML/04 Void HTML Elements.md",
-    "02 Introduction to HTML/03 The HTML Paragraph Elements.md",
-    "02 Introduction to HTML/02 The Heading element.md",
-    "02 Introduction to HTML/01 What is HTML.md",
-    "Google.md",
-    "Untitled.canvas",
-    "_templates/Eisenhower Matrix.md",
-    "_templates/OKR (Objectives and Key Results).md"
+    "Untitled.canvas"
   ]
 }

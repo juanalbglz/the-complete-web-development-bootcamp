@@ -4,18 +4,47 @@
     "type": "split",
     "children": [
       {
-        "id": "fb9a383da9fe9265",
+        "id": "f9c8d612aee1dcf6",
         "type": "tabs",
         "children": [
           {
-            "id": "1c68003b05969c0d",
+            "id": "9b32d0e065bf657c",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {}
+              "type": "markdown",
+              "state": {
+                "file": "README.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "7d46b74b7629e187",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 CSS Properties/6.2 Inspecting CSS.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          },
+          {
+            "id": "2e89890f22f1f8a8",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "06 CSS Properties/6.3 The CSS Box Model.md",
+                "mode": "source",
+                "source": false
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -44,7 +73,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "This",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -81,6 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "06 CSS Properties/6.3 The CSS Box Model.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -97,6 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "06 CSS Properties/6.3 The CSS Box Model.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -118,15 +149,17 @@
             "type": "leaf",
             "state": {
               "type": "outline",
-              "state": {}
+              "state": {
+                "file": "06 CSS Properties/6.3 The CSS Box Model.md"
+              }
             }
           }
-        ]
+        ],
+        "currentTab": 3
       }
     ],
     "direction": "horizontal",
-    "width": 300,
-    "collapsed": true
+    "width": 300
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -140,38 +173,44 @@
       "markdown-importer:Open format converter": false
     }
   },
-  "active": "1c68003b05969c0d",
+  "active": "2e89890f22f1f8a8",
   "lastOpenFiles": [
-    "05 Introduction to CSS/5.4 Color Vocab Project/style.css",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets/images/daenerys.jpeg",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets/images",
+    "06 CSS Properties/6.4 Motivation Meme Project/assets/images/daenerys.jpeg",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution/solution.html",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution/solution.css",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets",
+    "06 CSS Properties/6.4 Motivation Meme Project/assets/images",
+    "06 CSS Properties/6.4 Motivation Meme Project/style.css",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution",
+    "06 CSS Properties/6.4 Motivation Meme Project/index.html",
+    "06 CSS Properties/6.4 Motivation Meme Project/goal.png",
+    "06 CSS Properties/6.4 Motivation Meme Project/assets",
+    "06 CSS Properties/6.4 Motivation Meme Project",
+    "06 CSS Properties/6.3 CSS Box Model/goal.png",
+    "06 CSS Properties/6.2 Inspecting CSS.md",
+    "06 CSS Properties/6.3 The CSS Box Model.md",
+    "06 CSS Properties/6.1 Font Properties.md",
+    "01 CSS.md",
+    "00 HTML.md",
+    "README.md",
+    "().md",
+    "06 CSS Properties/6.1 Font Properties/goal.png",
+    "06 CSS Properties/6.0 CSS Colors.md",
+    "06 CSS Properties/6.0 CSS Colors/goal.png",
     "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/yellow.png",
     "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/red.png",
     "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/orange.png",
     "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/green.png",
     "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/blue.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/red.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/yellow.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/orange.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/green.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images/blue.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/style.css",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/solution.html",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets/images",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution",
-    "05 Introduction to CSS/5.4 Color Vocab Project/index.html",
-    "05 Introduction to CSS/5.4 Color Vocab Project/assets",
-    "05 Introduction to CSS/5.4 Color Vocab Project",
     "05 Introduction to CSS/5.3 CSS Selectors.css.md",
-    "05 Introduction to CSS/5.3 CSS Selectors.css",
     "05 Introduction to CSS/5.3 CSS Selectors.html.md",
     "05 Introduction to CSS/5.3 CSS Selectors.md",
     "05 Introduction to CSS/5.1 How to add CSS.md",
     "04 Multi-Page Websites/4.1 What are Webpages.md",
     "05 Introduction to CSS/5.0 Why do we need CSS.md",
     "04 Multi-Page Websites/4.2 The HTML Boilerplate.md",
-    "README.md",
-    "().md",
     "01 Web Development fundamentals/03 Learn key troubleshooting and debugging skills to apply to your projects.md",
     "04 Multi-Page Websites/4.0 File Paths.md",
     "03 Intermediate HTML/3.0 The List Elements.md",
@@ -180,14 +219,8 @@
     "01 Web Development fundamentals/01 how the internet works and how websites are served.md",
     "03 Intermediate HTML/3.3 Image Elements.md",
     "03 Intermediate HTML/3.2 Anchor Element.md",
-    "00 HTML.md",
     "03 Intermediate HTML/3.1 Nesting and indentation.md",
     "01 What is HTML.md",
-    "02 Introduction to HTML/2.3 Void HTML Elements.md",
-    "02 Introduction to HTML/2.2 The HTML Paragraph Elements.md",
-    "02 Introduction to HTML/2.2 The Heading element.md",
-    "03 Intermediate HTML/01 The List Elements.md",
-    "02 Introduction to HTML/04 Void HTML Elements.md",
     "Untitled.canvas"
   ]
 }

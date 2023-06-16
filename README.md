@@ -7,7 +7,7 @@ A project based course that can be done in 12 weeks and covers from HTML to Reac
 
 - [x] [Movie Ranking Project](/02%20Introduction%20to%20HTML/2.4%20Movie%20Ranking%20Project/index.html)
 - [x] [Birthday Invite Project](/03%20Intermediate%20HTML/3.4%20Birthday%20Invite%20Project/index.html)
-- [ ] [HTML Portfolio Project](/04%20Multi-Page%20Websites/4.3%20HTML%20Porfolio%20Project/index.html)
+- [x] [HTML Portfolio Project](/04%20Multi-Page%20Websites/4.3%20HTML%20Porfolio%20Project/index.html)
 
 ## SYLLABUS / THE COMPLETE DEVELOPMENT BOOTCAMP BY [APP BREVERY](www.appbrewery.com)
 
@@ -16,28 +16,28 @@ A project based course that can be done in 12 weeks and covers from HTML to Reac
 - [x] [Required software](_resources/required%20software.md)
 
 ### Web development fundamentals
-- [x] [Understand how the internet works and how websites are served](01%20Web%20Development%20fundamentals/01%20how%20the%20internet%20works%20and%20how%20websites%20are%20served.md).
-- [x] [Understand how websites work and how HTML, CSS and JavaScript contribute](01%20Web%20Development%20fundamentals/02%20Understand%20how%20websites%20work%20and%20how%20HTML,%20CSS%20and%20JavaScript%20contribute.md).
+- [x] [Understand how the internet works and how websites are served](./01%20Web%20Development%20fundamentals/01%20how%20the%20internet%20works%20and%20how%20websites%20are%20served.md).
+- [x] [Understand how websites work and how HTML, CSS and JavaScript contribute](./01%20Web%20Development%20fundamentals/02%20Understand%20how%20websites%20work%20and%20how%20HTML%2C%20CSS%20and%20JavaScript%20contribute.md).
 - [ ] Learn to use git, GitHub and version control.
 - [ ] Learn key troubleshooting and debugging skills to apply to your projects
 
 
 ### HTML5
 - [ ] Learn the anatomy of HTML syntax to structure your websites.
-- [ ] Understand the HTML boilerplate and HTML doctypes.
-- [x] [Understand indentation and nesting in HTML code](/03%20Intermediate%20HTML/3.1%20Nesting%20and%20indentation.md).
-- [x] Learn to use HTML tags to structure headings, paragraphs.
+- [x] [Understand the HTML boilerplate and HTML doctypes](./04%20Multi-Page%20Websites/4.2%20The%20HTML%20Boilerplate.md).
+- [x] [Understand indentation and nesting in HTML code](./03%20Intermediate%20HTML/3.1%20Nesting%20and%20indentation.md).
+- [x] [Learn to use HTML tags to structure headings, paragraphs](./02%20Introduction%20to%20HTML/2.1%20The%20Heading%20element.md).
 - [x] [How to structure HTML lists to create unordered and ordered lists](/03%20Intermediate%20HTML/3.0%20The%20List%20Elements.md).
-- [x] [How to insert images using HTML](/03%20Intermediate%20HTML/3.3%20Image%20Elements.md).
-- [x] [How to create hyperlinks using anchor tags](/03%20Intermediate%20HTML/3.2%20Anchor%20Element.md).
-- [ ] Create multi-page websites.
+- [x] [How to insert images using HTML](./03%20Intermediate%20HTML/3.3%20Image%20Elements.md).
+- [x] [How to create hyperlinks using anchor tags](./03%20Intermediate%20HTML/3.2%20Anchor%20Element.md).
+- [x] [Create multi-page websites](./04%20Multi-Page%20Websites/4.1%20What%20are%20Webpages.md).
 - [ ] Learn HTML best practices.
 
 
 ### CSS3
 - [ ] Understand what are cascading style sheets and how you can use it to style your website.
-- [ ] How to use CSS selectors and properties.
-- [ ] Learn about how to use inline, internal and external CSS.
+- [x] [How to use CSS selectors and properties](./05%20Introduction%20to%20CSS/5.3%20CSS%20Selectors.md).
+- [x] [Learn about how to use inline, internal and external CSS](./05%20Introduction%20to%20CSS/5.1%20How%20to%20add%20CSS.md).
 - [ ] Understand CSS coding best practices.
 - [ ] Learn about CSS specificity and inheritance.
 - [ ] Learn and understand the CSS Box Model.

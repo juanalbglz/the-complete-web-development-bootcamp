@@ -37,7 +37,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "06 CSS Properties/6.3 The CSS Box Model.md",
+                "file": "08 Advanced CSS/8.1 CSS Float.md",
                 "mode": "source",
                 "source": false
               }
@@ -110,7 +110,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "06 CSS Properties/6.3 The CSS Box Model.md",
+                "file": "08 Advanced CSS/8.1 CSS Float.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -127,7 +127,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "06 CSS Properties/6.3 The CSS Box Model.md",
+                "file": "08 Advanced CSS/8.1 CSS Float.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -150,7 +150,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "06 CSS Properties/6.3 The CSS Box Model.md"
+                "file": "08 Advanced CSS/8.1 CSS Float.md"
               }
             }
           }
@@ -175,35 +175,39 @@
   },
   "active": "2e89890f22f1f8a8",
   "lastOpenFiles": [
-    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets/images/daenerys.jpeg",
-    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets/images",
-    "06 CSS Properties/6.4 Motivation Meme Project/assets/images/daenerys.jpeg",
-    "06 CSS Properties/6.4 Motivation Meme Project/solution/solution.html",
-    "06 CSS Properties/6.4 Motivation Meme Project/solution/solution.css",
-    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets",
-    "06 CSS Properties/6.4 Motivation Meme Project/assets/images",
-    "06 CSS Properties/6.4 Motivation Meme Project/style.css",
-    "06 CSS Properties/6.4 Motivation Meme Project/solution",
-    "06 CSS Properties/6.4 Motivation Meme Project/index.html",
-    "06 CSS Properties/6.4 Motivation Meme Project/goal.png",
-    "06 CSS Properties/6.4 Motivation Meme Project/assets",
-    "06 CSS Properties/6.4 Motivation Meme Project",
-    "06 CSS Properties/6.3 CSS Box Model/goal.png",
+    "08 Advanced CSS/8.0 CSS Display.md",
+    "08 Advanced CSS/8.1 CSS Float.md",
+    "08 Advanced CSS/8.1 CSS Float/index.html",
+    "08 Advanced CSS/8.1 CSS Float/solution.html",
+    "08 Advanced CSS/8.1 CSS Float/goal.png",
+    "08 Advanced CSS/8.1 CSS Float/dog.jpeg",
+    "08 Advanced CSS/8.1 CSS Float/cat.jpeg",
+    "08 Advanced CSS/8.1 CSS Float",
+    "08 Advanced CSS/8.0 CSS Display/index2.html",
+    "08 Advanced CSS/8.0 CSS Display/index copy.html",
+    "08 Advanced CSS/8.0 CSS Display/solution1.html",
+    "08 Advanced CSS/8.0 CSS Display/index.html",
+    "08 Advanced CSS/8.0 CSS Display/solution2.html",
+    "08 Advanced CSS/8.0 CSS Display/goal2.png",
+    "08 Advanced CSS/8.0 CSS Display/goal1.png",
+    "08 Advanced CSS/8.0 CSS Display",
+    "README.md",
+    "08 Advanced CSS",
+    "07 Intermadiate CSS/7.2 CSS Positioning.md",
+    "07 Intermadiate CSS/7.3 CSS Flag Project/goal.png",
+    "07 Intermadiate CSS/7.2 CSS Positioning/goal.png",
+    "07 Intermadiate CSS/7.1 Selectors & Combinators.md",
+    "07 Intermadiate CSS/7.0 The Cascade - Specificity and Inheritance.md",
     "06 CSS Properties/6.2 Inspecting CSS.md",
+    "07 Intermadiate CSS/7.0 CSS Cascade/goal.png",
     "06 CSS Properties/6.3 The CSS Box Model.md",
+    "06 CSS Properties/6.4 Motivation Meme Project/solution/assets/images/daenerys.jpeg",
+    "06 CSS Properties/6.4 Motivation Meme Project/assets/images/daenerys.jpeg",
     "06 CSS Properties/6.1 Font Properties.md",
     "01 CSS.md",
     "00 HTML.md",
-    "README.md",
     "().md",
-    "06 CSS Properties/6.1 Font Properties/goal.png",
     "06 CSS Properties/6.0 CSS Colors.md",
-    "06 CSS Properties/6.0 CSS Colors/goal.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/yellow.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/red.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/orange.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/green.png",
-    "05 Introduction to CSS/5.4 Color Vocab Project/solution/assets/images/blue.png",
     "05 Introduction to CSS/5.3 CSS Selectors.css.md",
     "05 Introduction to CSS/5.3 CSS Selectors.html.md",
     "05 Introduction to CSS/5.3 CSS Selectors.md",
@@ -216,11 +220,6 @@
     "03 Intermediate HTML/3.0 The List Elements.md",
     "02 Introduction to HTML/2.1 The Heading element.md",
     "01 Web Development fundamentals/02 Understand how websites work and how HTML, CSS and JavaScript contribute.md",
-    "01 Web Development fundamentals/01 how the internet works and how websites are served.md",
-    "03 Intermediate HTML/3.3 Image Elements.md",
-    "03 Intermediate HTML/3.2 Anchor Element.md",
-    "03 Intermediate HTML/3.1 Nesting and indentation.md",
-    "01 What is HTML.md",
     "Untitled.canvas"
   ]
 }
